@@ -28,7 +28,7 @@ The InterPlanetary File System (IPFS) and Blockchain technologies will be used i
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/ShreevatsaUpadhyaya/Automated-Notarization.git``
+``https://github.com/ShreevatsaUpadhyaya/Automated-Notarization-of-Documents.git``
 
 
 2. Install the required packages:
